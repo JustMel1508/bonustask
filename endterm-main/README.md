@@ -1,7 +1,10 @@
 # Thank You
 
 Thank you for being our teacher. You are truly the best.  
-I really appreciate your support, clear explanations, and patience during this course. ---
+I really appreciate your support, clear explanations, and patience during this course. 
+---
+
+![Project Screenshot](docs/555.jpg)
 
 # Project Overview
 
